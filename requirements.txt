@@ -73,6 +73,7 @@ pycparser==2.18
 Pygments==2.2.0
 pyOpenSSL==17.2.0
 pyparsing==2.2.0
+PyQt5==5.9.2
 PySocks==1.6.7
 python-dateutil==2.6.1
 python-editor==1.0.3
@@ -87,6 +88,7 @@ scikit-learn==0.18.2
 scipy==0.19.1
 seaborn==0.7.1
 simplegeneric==0.8.1
+sip==4.19.6
 six==1.11.0
 sortedcontainers==1.5.7
 SQLAlchemy==1.1.13
