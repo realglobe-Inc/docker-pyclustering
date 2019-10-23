@@ -73,7 +73,7 @@ pyclustering==0.6.6
 pycosat==0.6.3
 pycparser==2.18
 Pygments==2.2.0
-pyOpenSSL==17.2.0
+pyOpenSSL==17.5.0
 pyparsing==2.2.0
 PyQt5==5.9.2
 PySocks==1.6.7
